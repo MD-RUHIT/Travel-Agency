@@ -1,0 +1,30 @@
+~~~~~~~~Package : 1~~~~~~~~
+Islam,Rubaiyat
+01993048004
+rishanto108@gmail.com
+Number of Persons: 23
+Total Cost: 69000.0
+~~~~~~~~Package : 1~~~~~~~~
+Islam,Rubaiyat
+01993048004
+rishanto108@gmail.com
+Number of Persons: 12
+Total Cost: 36000.0
+~~~~~~~~Package : 1~~~~~~~~
+Islam,Rubaiyat
+01993048004
+rishanto108@gmail.com
+Number of Persons: 6
+Total Cost: 16200.0
+Package: 5
+Islam,Rubaiyat
+01993048004
+rishanto108@gmail.comIslam,Rubaiyat
+Number of Persons: 10
+Total Cost: 27000.0
+Package: 5
+Islam,Rubaiyat
+01993048004
+rishanto108@gmail.com
+Number of Persons: 2
+Total Cost: 6000.0
